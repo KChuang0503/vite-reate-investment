@@ -1,5 +1,6 @@
 {
   "name": "vite-reate-investment",
+  "homepage": "https://kchuang0503.github.io/vite-reate-investment/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,6 +13,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
